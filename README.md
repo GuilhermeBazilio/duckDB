@@ -93,6 +93,8 @@ conn.close()
 
 Print do código com o resultado:
 
-![image](https://github.com/GuilhermeBazilio/duckDB/assets/69533575/302c3d64-7e33-4b40-80c3-a4e99f26b331)
+![image](https://github.com/GuilhermeBazilio/duckDB/assets/69533575/496232ba-c8fc-4a84-9be1-6340ad99f891)
+
+
 
 Para contribuições ou sugestões, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. Obrigado por explorar este repositório de estudos sobre duckDB!
