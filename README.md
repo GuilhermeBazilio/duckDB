@@ -97,4 +97,4 @@ Print do código com o resultado:
 
 
 
-Para contribuições ou sugestões, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. Obrigado por explorar este repositório de estudos sobre duckDB!
+Obrigado por explorar este repositório de estudos sobre duckDB!
